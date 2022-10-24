@@ -31,4 +31,10 @@
     - E. False because true is 1 by default and 1 is not equal to 2.
     - F. True because Boolean(2) is true.
 15. == returns true as long as those two have the same value after datatype conversion. === doesn't allow datatype conversion.
-16. 
+16. See part2-question16.js
+17. The result will be [2,4,6]. The doSomething function doubles the value passed in and in modifyArray modifys the actual array using a for loop.
+18. See part2-question18.js
+19. 1
+    4
+    3
+    2
